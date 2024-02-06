@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/food/static/css/main.e2985ec6.css",
+    "main.js": "/food/static/js/main.600daa51.js",
+    "static/media/playlogo.png": "/food/static/media/playlogo.88c0cf672ae4dd873d7f.png",
+    "static/media/logo.jpg": "/food/static/media/logo.111cfe0045b428130ac4.jpg",
+    "static/media/applogo.png": "/food/static/media/applogo.2a8f2a38110b76832fb2.png",
+    "static/media/connectionerror.png": "/food/static/media/connectionerror.af61d75d0a6ab4da4878.png",
+    "index.html": "/food/index.html",
+    "main.e2985ec6.css.map": "/food/static/css/main.e2985ec6.css.map",
+    "main.600daa51.js.map": "/food/static/js/main.600daa51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2985ec6.css",
+    "static/js/main.600daa51.js"
+  ]
+}
